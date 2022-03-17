@@ -2,8 +2,6 @@
 
 - 🔭 Atualmente estou estou desempregado, trabalhando apenas com Marketing Digital e Day Trade!
 - 🌱 Estou aprendendo HTML, CSS e JAVASCRIPT
-- 📫 Como me contatar: lucasmessiasfb@gmail.com
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Amo Python ❤
 
 <div>
