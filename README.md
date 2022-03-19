@@ -6,8 +6,9 @@
 
 <div>
   <a align="center" href="https://github.com/lukones">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lukones&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukones&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lukones&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukones&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight"/>
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
