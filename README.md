@@ -17,10 +17,10 @@
   <img align="center" alt="Lukones-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lukones-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lukones-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lukones-Bootstrap" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Lukones-jQuery" height="50" width="60"" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png">
-  <img align="center" alt="Lukones-NODEJS" height="60" width="60"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img align="center" alt="Lukones-EXPRESS.JS" height="60" width="60" src="https://www.mementotech.in/assets/images/icons/express.png">
+  <img align="center" alt="Lukones-Python" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Lukones-Python" height="50" width="60"" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png">
+  <img align="center" alt="Lukones-Python" height="50" width="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img align="center" alt="Lukones-Python" height="60" width="60" src="https://www.mementotech.in/assets/images/icons/express.png">
   
 </div>
   
