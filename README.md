@@ -6,7 +6,7 @@
 
 <div>
   <a align="center" href="https://github.com/lukones">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lukones&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?Lukones=anuraghazra&include_all_commits=true&theme=tokyonight"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukones&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight"/>
 
 </div>
