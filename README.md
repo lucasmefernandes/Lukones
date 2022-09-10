@@ -1,7 +1,6 @@
 ### Hey, sou o Lucas Messias 👋
 
-- 🔭 Atualmente estou desempregado, trabalhando apenas com Marketing Digital e Day Trade!
-- 🌱 Estou aprendendo HTML, CSS e JAVASCRIPT.
+- 🔭 Atualmente estou desempregado, trabalhando apenas com Marketing Digital, Day Trade e Freelancer!
 
 <div>
   <a align="center" href="https://github.com/lukones">
