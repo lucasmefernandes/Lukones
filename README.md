@@ -1,4 +1,4 @@
-### Hey, sou o Lucas Messias 👋
+### Hey, i'm Lucas Messias 👋
 
 - 🔭 Atualmente estou desempregado, trabalhando apenas com Marketing Digital, Day Trade e Freelancer!
 
