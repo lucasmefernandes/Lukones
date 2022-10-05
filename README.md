@@ -1,4 +1,4 @@
-### Hey, i'm Lucas Messias 👋
+### Hey, I'm Lucas Messias 👋
 
 - Welcome to my profile! Don't mind the mess hahaha, joking aside. I'm in technology because it's my passion. Being able to create something makes me satisfied, like I have super powers. So since I started I don't want to stop, I'm thirsty for knowledge. Here you can see my projects and evolution.  Follow me on Linkedin or Instagram and feel free!
 
