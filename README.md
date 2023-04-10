@@ -3,12 +3,9 @@
 - Welcome to my profile! Don't mind the mess hahaha, joking aside. I'm in technology because it's my passion. Being able to create something makes me satisfied, like I have super powers. So since I started I don't want to stop, I'm thirsty for knowledge. Here you can see my projects and evolution.  Follow me on Linkedin or Instagram and feel free!
 
 <div>
-  <a align="center" href="https://github.com/lukones">
-
- 
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lukones&show_icons=true&include_all_commits=true&count_private=true&hide_border=false">
- <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=Lukones&show_icons=true&include_all_commits=true&count_private=true&hide_border=fals](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukones&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=false">
- 
+<a align="center" href="https://github.com/lukones">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lukones&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukones&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=false"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
